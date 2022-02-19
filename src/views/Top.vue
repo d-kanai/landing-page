@@ -13,10 +13,7 @@
     <section class="secondary">
       <h3>研修・資格</h3>
       <div class="body">
-        <img
-          width="150"
-          src="https://certification.scrumalliance.org/assets/seal-csde-7b1b092e5f88c14a152b9b0168f38fbead5695700d42dfee1fc0d8c6677ae719.png"
-        />
+        <img width="150" src="@/assets/csde.png" />
         <p class="my-5">
           <strong
             >Certified Scrum Developer Educator /
@@ -56,10 +53,7 @@
             </p>
           </div>
         </article>
-        <img
-          width="150"
-          src="https://www.scrumalliance.org/_scrum/images/badges300x300/active/SA_badge_csd.png"
-        />
+        <img width="150" src="@/assets/csd.png" />
         <p class="my-5">
           <strong
             >Certified Scrum Developer Training / 認定ScrumDeveloper研修</strong
@@ -152,7 +146,7 @@
           <div class="message-body">
             <p>自社のWeb・Nativeエンジニアとして開発・チームリードに従事。</p>
             <p>
-              海外支社の開発チーム（英語圏）のリード・顧客とのブリッジ・品質支援に従事。
+              海外支社の開発チームのリード・顧客とのブリッジ・品質支援に従事。
             </p>
             <p>
               複数プロダクト・チームを並行して、技術・品質・プロセス改善支援に従事。
