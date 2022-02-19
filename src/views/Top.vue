@@ -3,16 +3,16 @@
     <section class="primary">
       <h3>金井 大輝 / Daiki Kanai</h3>
       <div class="body">
-        <p>Webアプリエンジニア / Flutterエンジニア / XP Practices実践者</p>
-        <p>
-          認定ScrumMaster / 認定Advanced Scrum Developer /
-          認定ScrumDeveloper教育者
-        </p>
+        <div class="job">
+          <p>Webアプリエンジニア</p>
+          <p>Flutterエンジニア</p>
+          <p>XP Practices実践者</p>
+          <p>認定ScrumMaster</p>
+          <p>認定Advanced Scrum Developer</p>
+        </div>
       </div>
-    </section>
-    <section class="secondary">
-      <h3>研修・資格</h3>
-      <div class="body">
+      <hr>
+      <div>
         <img width="150" src="@/assets/csde.png" />
         <p class="my-5">
           <strong
@@ -53,36 +53,67 @@
             </p>
           </div>
         </article>
-        <img width="150" src="@/assets/csd.png" />
-        <p class="my-5">
-          <strong
-            >Certified Scrum Developer Training / 認定ScrumDeveloper研修</strong
-          >
-        </p>
-        <article class="message">
-          <div class="message-body">
-            <p>
-              <a
-                target="_bannk"
-                href="https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer"
-                >Certified Scrum Developer®</a
-              >
-              認定研修。
-            </p>
-            <br />
-            <p>本研修はAgileな開発における技術スキルを強化します。</p>
-            <p>
-              Scrum・Agileの原則を理解し、専門的なAgileなエンジニアリングスキル・
-              <a
-                target="_blank"
-                href="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/Learning%20Objectives/E_CSD_LO_2021.pdf"
-                >学習目標</a
-              >
-              を
-            </p>
-            <p>習得することを目指します。</p>
-          </div>
-        </article>
+      </div>
+    </section>
+    <section class="secondary">
+      <h3>提供研修</h3>
+      <div class="body">
+        <div>
+          <img width="150" src="@/assets/csd.png" />
+          <p class="my-5">
+            <strong
+              >Certified Scrum Developer Training / 認定ScrumDeveloper研修</strong
+            >
+          </p>
+          <article class="message">
+            <div class="message-body">
+              <p>
+                <a
+                  target="_bannk"
+                  href="https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer"
+                  >Certified Scrum Developer®</a
+                >
+                認定研修。
+              </p>
+              <br />
+              <p>本研修はAgileな開発における技術スキルを強化します。</p>
+              <p>
+                Scrum・Agileの原則を理解し、専門的なAgileなエンジニアリングスキル・
+                <a
+                  target="_blank"
+                  href="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/Learning%20Objectives/E_CSD_LO_2021.pdf"
+                  >学習目標</a
+                >
+                を
+              </p>
+              <p>習得することを目指します。</p>
+            </div>
+          </article>
+        </div>
+        <div>
+          <p class="my-5">
+            <strong>認定CSD教育者・CSD研修コース提供にあたり</strong>
+          </p>
+          <article class="message">
+            <div class="message-body">
+              <p>
+                Martin Fowler氏は
+                <a href="https://martinfowler.com/bliki/FlaccidScrum.html">FlaccidScrum</a>
+                という記事にしています。
+              </p>
+              <br/>
+              <p>私がはじめてScrumで開発をした際はポジティブな側面を多く感じながらも、この記事で紹介されているような体験も同時に得ました。</p>
+              <p>当時私はExtream Programmingの知識を全く持っていなかったため、変化を受け入れ、抱擁する・適応する。そのようなAgileな状態を目指したいとした場合に、開発者としてどう付き合えば良いか整理がつかなかったのです。</p>
+              <br/>
+              <p>その後、私はCSD研修の受講をきっかけにExtream Programmingの戦略とプラクティスを知り、</p>
+              <p>"変化に適応する"ことを前向きに捉えられるようになると共に、自身に不足しているスキルが明らかになったことを覚えております。</p>
+              <br/>
+              <p>当時私の周りにはCSD研修にて学習するような内容を精通している人は少なく、似たような悩みをもっておりました。</p>
+              <p>昨今では認知度が上がってきていると感じますが、まだリーチできていない方へ・似たような悩みを持つ方へ、本研修を通してヒントをお渡しできればと思います。</p>
+              <p></p>
+            </div>
+          </article>
+        </div>
       </div>
     </section>
     <section class="primary">
@@ -115,7 +146,7 @@
       <h3>経歴</h3>
       <div class="body">
         <article class="message">
-          <strong>2012 - 2016 株式会社ActiveWork</strong>
+          <div class="message-title"><p><strong>2012 - 2016 株式会社ActiveWork</strong></p></div>
           <div class="message-body">
             <p>Webエンジニアとして4年間開発・運用を担当。</p>
             <p>ToC向け新規開発・ToB向け新規開発・追加開発・インフラ移行・</p>
@@ -124,7 +155,7 @@
           </div>
         </article>
         <article class="message">
-          <strong>2016 - 2021 株式会社Odd-e Japan</strong>
+          <div class="message-title"><p><strong>2016 - 2022 株式会社Odd-e Japan</strong></p></div>
           <div class="message-body">
             <p>
               Scrumコーチとして顧客へのScrum導入支援・XPテクニカルプラクティス導入支援に従事。
@@ -137,12 +168,11 @@
               自身のAgile・XP Practices
               3Days研修の作成・オーガナイズ・講師として従事。
             </p>
-
-            累計200名以上の受講者に研修実施。
+            <p>累計200名以上の受講者に研修実施。</p>
           </div>
         </article>
         <article class="message">
-          <strong>2016 - 2021 株式会社Odd-e Japan</strong>
+          <div class="message-title"><p><strong>2016 - 2022 株式会社Odd-e Japan</strong></p></div>
           <div class="message-body">
             <p>自社のWeb・Nativeエンジニアとして開発・チームリードに従事。</p>
             <p>
@@ -170,22 +200,18 @@ export default {
 body {
   letter-spacing: 1.2px;
 }
-
 section {
   width: 100%;
   padding-top: 80px;
   padding-bottom: 100px;
   text-align: center;
 }
-
 section.secondary {
   background: #f6f6f6;
 }
-
 pre {
   background: none;
 }
-
 article {
   text-align: left;
   max-width: 840px;
@@ -193,24 +219,42 @@ article {
   margin-top: 40px;
   margin-bottom: 40px;
 }
-
 .body {
   margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
-
 h3 {
+  font-family: ヒラギノ明朝;
   font-size: 20px;
   font-weight: bold;
   text-decoration: underline;
-  text-decoration-color: #ffad7c;
+  text-decoration-color: #ee83a0;
   text-underline-offset: 15px;
   text-decoration-thickness: 5px;
   margin-bottom: 10px;
 }
-
+p {
+  padding: 5px;
+  font-family: ヒラギノ明朝;
+}
 .skill {
   text-align: left;
   margin: auto;
   max-width: 500px;
+}
+.message-title {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+hr {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  width: 30%;
+}
+body {
+  font-family: ヒラギノ明朝;
 }
 </style>
