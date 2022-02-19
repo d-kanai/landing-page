@@ -20,39 +20,41 @@
             認定ScrumDeveloper教育者</strong
           >
         </p>
-        <article class="message">
-          <div class="message-body">
-            <p>
-              Certified Scrum Developer Educatorは
-              <a target="_blank" href="https://www.scrumalliance.org/"
-                >Scrum Alliance</a
-              >
-              認定研修である、
-            </p>
-            <p>
-              <a
-                target="_bannk"
-                href="https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer"
-                >Certified Scrum Developer®</a
-              >
-              Training / 認定Scrum開発者研修
-              を開催し、認定を付与する資格を有します。
-            </p>
-            <p>
-              研修実績・独自のコース内容・既存CSDEducatorからの推薦書より、Scrum
-              Allianceが
-            </p>
-            <p>
-              定義している
-              <a
-                target="_blank"
-                href="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/Learning%20Objectives/E_CSD_LO_2021.pdf"
-                >学習目標</a
-              >
-              を到達するための、有効な研修が提供できる人物の証明になります。
-            </p>
-          </div>
-        </article>
+        <div class="body">
+          <article>
+            <div class="message-body">
+              <p>
+                Certified Scrum Developer Educatorは
+                <a target="_blank" href="https://www.scrumalliance.org/"
+                  >Scrum Alliance</a
+                >
+                認定研修である、
+              </p>
+              <p>
+                <a
+                  target="_bannk"
+                  href="https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-developer"
+                  >Certified Scrum Developer®</a
+                >
+                Training / 認定Scrum開発者研修
+                を開催し、認定を付与する資格を有します。
+              </p>
+              <p>
+                研修実績・独自のコース内容・既存CSDEducatorからの推薦書より、Scrum
+                Allianceが
+              </p>
+              <p>
+                定義している
+                <a
+                  target="_blank"
+                  href="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/Learning%20Objectives/E_CSD_LO_2021.pdf"
+                  >学習目標</a
+                >
+                を到達するための、有効な研修が提供できる人物の証明になります。
+              </p>
+            </div>
+          </article>
+        </div>
       </div>
     </section>
     <section class="secondary">
@@ -99,7 +101,7 @@
               <p>
                 Martin Fowler氏は
                 <a href="https://martinfowler.com/bliki/FlaccidScrum.html">FlaccidScrum</a>
-                という記事にしています。
+                という言葉を記事にしています。
               </p>
               <br/>
               <p>私がはじめてScrumで開発をした際はポジティブな側面を多く感じながらも、この記事で紹介されているような体験も同時に得ました。</p>
