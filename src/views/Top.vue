@@ -100,7 +100,7 @@
             <div class="message-body">
               <p>
                 Martin Fowler氏は
-                <a href="https://martinfowler.com/bliki/FlaccidScrum.html">FlaccidScrum</a>
+                <a target="_bannk" href="https://martinfowler.com/bliki/FlaccidScrum.html">FlaccidScrum</a>
                 という言葉を記事にしています。
               </p>
               <br/>
