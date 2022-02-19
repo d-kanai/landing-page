@@ -1,9 +1,10 @@
 <template>
-  <input type="checkbox" v-model="todo.status" @change="this.updateStatus(todo)" />
-  <router-link
-    :to="{name: 'Todo', params: {id: todo.id}}"
-
-  >
+  <input
+    type="checkbox"
+    v-model="todo.status"
+    @change="this.updateStatus(todo)"
+  />
+  <router-link :to="{ name: 'Todo', params: { id: todo.id } }">
     <span>{{ todo.name }}</span>
   </router-link>
 </template>
@@ -11,7 +12,7 @@
 export default {
   name: "NewComponent",
   props: {
-    todo: {}
-  }
+    todo: {},
+  },
 };
 </script>

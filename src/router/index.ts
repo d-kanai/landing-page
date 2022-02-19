@@ -7,23 +7,23 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     name: "Top",
-    component: Top
+    component: Top,
   },
   {
     path: "/todos",
     name: "TodoList",
-    component: TodoList
+    component: TodoList,
   },
   {
     path: "/todo/:id",
     name: "Todo",
-    component: Todo
-  }
+    component: Todo,
+  },
 ];
 
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
-  routes
+  routes,
 });
 
 export default router;
