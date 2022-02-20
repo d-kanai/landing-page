@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
 import About from "@/views/About.vue";
+import Trainer from "@/views/Trainer.vue";
 import Top from "@/views/Top.vue";
 
 const routes: Array<RouteRecordRaw> = [
@@ -7,6 +8,11 @@ const routes: Array<RouteRecordRaw> = [
     path: "/",
     name: "Top",
     component: Top,
+  },
+  {
+    path: "/trainer",
+    name: "Trainer",
+    component: Trainer,
   },
   {
     path: "/about",

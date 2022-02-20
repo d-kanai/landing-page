@@ -1,14 +1,10 @@
 <template>
   <nav class="navbar">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="#">
-        d.kanai
-      </a>
-    </div>
     <div class="navbar-menu is-active">
       <div class="navbar-start">
         <router-link class="navbar-item" to="/"><span>研修</span> </router-link>
-        <router-link class="navbar-item" to="/about"> <span>提供事業主</span> </router-link>
+        <router-link class="navbar-item" to="/trainer"> <span>研修講師</span> </router-link>
+        <router-link class="navbar-item" to="/about"> <span>事業概要</span> </router-link>
       </div>
     </div>
   </nav>

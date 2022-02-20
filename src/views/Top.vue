@@ -23,15 +23,14 @@
               <br />
               <p>本研修はAgileな開発における技術スキルを強化します。</p>
               <p>
-                Scrum・Agileの原則を理解し、専門的なAgileなエンジニアリングスキル・
+                Scrum・Agileの原則を理解し、専門的なAgileなエンジニアリングスキル・</p>
+              <p>
                 <a
                   target="_blank"
                   href="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Files%20and%20PDFs/Learning%20Objectives/E_CSD_LO_2021.pdf"
                   >学習目標</a
                 >
-                を
-              </p>
-              <p>習得することを目指します。</p>
+                を習得することを目指します。</p>
             </div>
           </article>
         </div>
