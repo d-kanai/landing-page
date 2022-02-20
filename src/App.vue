@@ -1,7 +1,17 @@
 <template>
-  <div id="nav">
-    <router-link to="/todo/new"></router-link>
-  </div>
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        d.kanai
+      </a>
+    </div>
+    <div class="navbar-menu is-active">
+      <div class="navbar-start">
+        <router-link class="navbar-item" to="/"><span>研修</span> </router-link>
+        <router-link class="navbar-item" to="/about"> <span>提供事業主</span> </router-link>
+      </div>
+    </div>
+  </nav>
   <router-view />
 </template>
 
@@ -13,17 +23,9 @@
   text-align: center;
   color: #2c3e50;
 }
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+.navbar {
+  // background: #393939;
+  // color: white;
 }
+
 </style>
