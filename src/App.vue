@@ -1,5 +1,8 @@
 <template>
-  <nav class="navbar">
+  <nav class="navbar is-dark">
+    <div class="navbar-brand">
+      <p class="navbar-item title m-2"><span class="icon"><i class="fa fa-signature"></i></span></p>
+    </div>
     <div class="navbar-menu is-active">
       <div class="navbar-start">
         <router-link class="navbar-item" to="/"><span>研修</span> </router-link>

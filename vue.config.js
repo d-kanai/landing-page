@@ -1,4 +1,4 @@
 module.exports = {
-//  publicPath: '/landing-page/'
+  publicPath: '/landing-page/'
 }
 
