@@ -15,7 +15,7 @@
       <div class="body">
       <div>
         <img width="150" src="@/assets/csde.png" />
-        <p class="my-5">
+        <p class="my-5 title is-5">
           <strong
             >Certified Scrum Developer Educator /
             認定ScrumDeveloper教育者</strong

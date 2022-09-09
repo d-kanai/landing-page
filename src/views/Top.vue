@@ -10,7 +10,7 @@
               >Certified Scrum Developer Training / 認定ScrumDeveloper研修</strong
             >
           </p>
-          <button class="button is-primary is-warning is-large" style="font-family: ヒラギノ明朝;">
+          <button class="button is-primary is-warning is-medium" style="font-family: ヒラギノ明朝;">
             <a class="a-no-decoration" href="https://training.tech-kai.com" target="_blank">研修を予約する</a> 
           </button>
           <p class="subtitle is-6 mt-2">
