@@ -5,11 +5,18 @@
       <div class="body">
         <div>
           <img width="150" src="@/assets/csd.png" />
-          <p class="my-5">
+          <p class="my-5 title is-5">
             <strong
               >Certified Scrum Developer Training / 認定ScrumDeveloper研修</strong
             >
           </p>
+          <button class="button is-primary is-warning is-large" style="font-family: ヒラギノ明朝;">
+            <a class="a-no-decoration" href="https://training.tech-kai.com" target="_blank">研修を予約する</a> 
+          </button>
+          <p class="subtitle is-6 mt-2">
+            ※<a href="https://www.odd-e.jp" target="_blank">株式会社Odd-e Japan</a>主催の研修となります<br/>
+          </p>
+          <p class="subtitle is-6"></p>
           <article class="message">
             <div class="message-body">
               <p>
@@ -131,5 +138,9 @@ hr {
 }
 body {
   font-family: ヒラギノ明朝;
+}
+.a-no-decoration {
+  text-decoration: none;
+  color: black;
 }
 </style>
